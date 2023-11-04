@@ -1,0 +1,15 @@
+2023-11-04 14:49:35.436 [info] Extension host with pid 26500 started
+2023-11-04 14:49:35.540 [info] Lock '/home/ec2-user/.vscode-server/data/User/workspaceStorage/e4707c2bc03559c1a0a3421a35630ed4/vscode.lock': Lock acquired.
+2023-11-04 14:49:35.594 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-11-04 14:49:35.692 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-11-04 14:49:35.918 [info] Eager extensions activated
+2023-11-04 14:49:35.923 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-11-04 14:49:35.924 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-11-04 14:49:36.412 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-11-04 14:51:29.374 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-04 14:51:29.374 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2023-11-04 14:51:29.375 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-11-04 14:51:30.511 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2023-11-04 14:54:27.289 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2023-11-04 14:54:28.583 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
+2023-11-04 14:54:30.383 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1200
