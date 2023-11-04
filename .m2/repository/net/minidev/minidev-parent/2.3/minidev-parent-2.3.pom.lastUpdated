@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:04:59 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110299374
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110299361
+http\://repo.spring.io/milestone/.error=Could not transfer artifact net.minidev\:minidev-parent\:pom\:2.3 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/net/minidev/minidev-parent/2.3/minidev-parent-2.3.pom. Return code is\: 405 , ReasonPhrase\:Not Allowed.

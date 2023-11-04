@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:17:54 UTC 2023
+spring-petclinic-vets-service-2.1.2.jar>=
+spring-petclinic-vets-service-2.1.2.pom>=

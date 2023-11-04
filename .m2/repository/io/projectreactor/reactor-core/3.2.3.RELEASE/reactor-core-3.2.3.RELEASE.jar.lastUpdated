@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:04:46 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110286446
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110278057
+http\://repo.spring.io/milestone/.error=Could not transfer artifact io.projectreactor\:reactor-core\:jar\:3.2.3.RELEASE from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/io/projectreactor/reactor-core/3.2.3.RELEASE/reactor-core-3.2.3.RELEASE.jar. Return code is\: 405 , ReasonPhrase\:Not Allowed.

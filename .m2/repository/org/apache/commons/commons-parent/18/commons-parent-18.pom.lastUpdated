@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:04:33 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110273195
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110273162
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:18 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/org/apache/commons/commons-parent/18/commons-parent-18.pom. Return code is\: 405 , ReasonPhrase\:Not Allowed.

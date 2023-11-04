@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:04:46 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110286451
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110278059
+http\://repo.spring.io/milestone/.error=Could not transfer artifact de.codecentric\:spring-boot-admin-server-cloud\:jar\:2.1.2 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/de/codecentric/spring-boot-admin-server-cloud/2.1.2/spring-boot-admin-server-cloud-2.1.2.jar. Return code is\: 405 , ReasonPhrase\:Not Allowed.

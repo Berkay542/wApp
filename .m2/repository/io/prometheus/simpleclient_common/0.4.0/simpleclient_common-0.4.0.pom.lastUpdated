@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:05:01 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110301037
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110301025
+http\://repo.spring.io/milestone/.error=Could not transfer artifact io.prometheus\:simpleclient_common\:pom\:0.4.0 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/io/prometheus/simpleclient_common/0.4.0/simpleclient_common-0.4.0.pom. Return code is\: 405 , ReasonPhrase\:Not Allowed.

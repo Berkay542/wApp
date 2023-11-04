@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:05:06 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110306375
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110301519
+http\://repo.spring.io/milestone/.error=Could not transfer artifact io.zipkin.reporter2\:zipkin-sender-kafka11\:jar\:2.7.14 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/io/zipkin/reporter2/zipkin-sender-kafka11/2.7.14/zipkin-sender-kafka11-2.7.14.jar. Return code is\: 405 , ReasonPhrase\:Not Allowed.

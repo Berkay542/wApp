@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:04:25 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110265478
+https\://repo.spring.io/libs-milestone-local/.error=
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110265290
+https\://repo.spring.io/libs-milestone-local/.lastUpdated=1699110265384
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1699110265434
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.google.cloud\:google-cloud-bom\:pom\:0.77.0-alpha from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/com/google/cloud/google-cloud-bom/0.77.0-alpha/google-cloud-bom-0.77.0-alpha.pom. Return code is\: 405 , ReasonPhrase\:Not Allowed.
+https\://repo.spring.io/release/.error=Could not transfer artifact com.google.cloud\:google-cloud-bom\:pom\:0.77.0-alpha from/to spring-releases (https\://repo.spring.io/release)\: Not authorized , ReasonPhrase\:.

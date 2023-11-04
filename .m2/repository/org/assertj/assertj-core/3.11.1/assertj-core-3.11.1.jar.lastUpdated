@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:05:06 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110306395
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110301531
+http\://repo.spring.io/milestone/.error=Could not transfer artifact org.assertj\:assertj-core\:jar\:3.11.1 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/org/assertj/assertj-core/3.11.1/assertj-core-3.11.1.jar. Return code is\: 405 , ReasonPhrase\:Not Allowed.

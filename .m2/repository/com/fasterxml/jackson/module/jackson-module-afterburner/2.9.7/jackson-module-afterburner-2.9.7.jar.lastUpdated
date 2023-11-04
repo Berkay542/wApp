@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Nov 04 15:06:21 UTC 2023
+https\://repo.maven.apache.org/maven2/.lastUpdated=1699110381323
+@default-repository.spring.milestone-http\://repo.spring.io/milestone/.lastUpdated=1699110380390
+http\://repo.spring.io/milestone/.error=Could not transfer artifact com.fasterxml.jackson.module\:jackson-module-afterburner\:jar\:2.9.7 from/to repository.spring.milestone (http\://repo.spring.io/milestone)\: Failed to transfer file\: http\://repo.spring.io/milestone/com/fasterxml/jackson/module/jackson-module-afterburner/2.9.7/jackson-module-afterburner-2.9.7.jar. Return code is\: 405 , ReasonPhrase\:Not Allowed.
